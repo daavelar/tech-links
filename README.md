@@ -1,8 +1,7 @@
 # tech-links
 
 ### Software Architecture
-https://12factor.net/ - Metodologia que fornece doze práticas definidas para permitir que aplicações possam ser construídas visando portabilidade e resiliência.
-
+https://12factor.net/ - 12 practices for design good applications.
 
 ### Testing
-https://martinfowler.com/bliki/ContractTest.html
+https://martinfowler.com/bliki/ContractTest.html - Mocking an external dependency in tests
